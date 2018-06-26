@@ -1,6 +1,3 @@
-//
-// Created by amichai on 26/06/18.
-//
 
 #ifndef UNTITLED22_SET_H
 #define UNTITLED22_SET_H
@@ -71,4 +68,4 @@ void SetPrint(Set s);
 /* Releases all the resources of the set */
 void SetDestroy (Set s);
 
-#endif //UNTITLED22_SET_H
+#endif
